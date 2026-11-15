@@ -1,3 +1,29 @@
+# ToolUniverse
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Democratizing AI scientists with ToolUniverse
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+让 AI 科学家平民化的 ToolUniverse 工具生态。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # <img src="docs/_static/logo.png" alt="ToolUniverse Logo" height="28" style="vertical-align: middle; margin-right: 8px;" /> ToolUniverse: Democratizing AI scientists
 
 [![Documentation](https://img.shields.io/badge/Documentation-Available-green)](https://zitniklab.hms.harvard.edu/ToolUniverse/)
